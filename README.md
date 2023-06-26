@@ -1,4 +1,4 @@
-![caraaf](https://github.com/caraaf/caraaf/assets/137832995/56491abb-c9e0-4da3-b00c-b752c645a145)
+![banner](https://github.com/caraaf/caraaf/assets/137832995/f36673ec-0666-447e-8da1-406f82eafb68)
 <div id="badges" 
   <h3> Check out my LinkedIn (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ <a href="https://www.linkedin.com/in/carakolehmainen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
