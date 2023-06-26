@@ -1,11 +1,5 @@
 ![caraaf](https://github.com/caraaf/caraaf/assets/137832995/56491abb-c9e0-4da3-b00c-b752c645a145)
 <div id="badges" 
-.badges {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-}>
   <a href="https://www.linkedin.com/in/carakolehmainen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
