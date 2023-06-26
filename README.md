@@ -2,7 +2,7 @@
 <div id="badges" 
   <h3> Check my LinkedIn (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ <a href="https://www.linkedin.com/in/carakolehmainen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> ☆*: .｡.
 </div>
 <h1 align="center"> Hi, I'm Cara (●'◡'●) </h1>
 
